@@ -24,6 +24,7 @@ Defining problems help in  1. improving user experience, 2 helps to prevent wast
 A budgeting application that helps users track expenses, save money, and manage finances effortlesly.
 ## 11. What are the main features or functionalities that make your software stand out? 
 My Application is user friendly the interface is easy to navigate. 2. Real time tracking to the user and company they get updates evryday, 3. Security and data protection clients data is safely secured.
+
 ## 12. What data is available regarding the market size and growth potential for your software? 
 Based on my application the market is growing rapidly as people are looking for ways to track expenses and save money, Digital budgeting app will come in handy for millions of users.
 ## 13. How can understanding market trends inform your software’s positioning and development?
